@@ -9,9 +9,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc. in Astrophysics
+    - title: PhD. in Astrophysics
       institution: Universidad de Valparaíso, Chile
       year: 2023 - Currently
+    - title: MSc. in Astrophysics
+      institution: Universidad de Valparaíso, Chile
+      year: 2023 - 2025
+      description:
+        - <b>Thesis project:</b> "Stellar Winds of O-Type Stars A Self-Consistent Analysis of Line-Force Parameters"
+        - <b>Supervisor:</b> Dr. Michel Curé 
+        - <b>Co-Supervisors:</b>  Dr. Ignacio Araya, Dr. Jorge Panei
     - title: BSc. in Physics, specializing in Astronomy
       institution: Universidad de Valparaíso, Chile
       year: 2018-2022
