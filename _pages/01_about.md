@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc. in Astrophysics student at <a href='https://ifa.uv.cl/'>Universidad de Valparaíso.</a><br>Av. Gran Bretaña 1111, Casilla 5030, Valparaíso, Chile.</br> 
+subtitle: PhD.(c) in Astrophysics at <a href='https://ifa.uv.cl/'>Universidad de Valparaíso.</a><br>Av. Gran Bretaña 1111, Casilla 5030, Valparaíso, Chile.</br> 
 
 profile:
   align: right
@@ -15,10 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Felipe Figueroa-Tapia, a Master's student who works in the field of **massive stars**. Currently, I am based at the Universidad de Valparaíso, where I am also a member of the *Massive Stars Group*.
+Hi! I am **Felipe Figueroa-Tapia**, a PhD student at the Universidad de Valparaíso and a member of the **Massive Stars Group**. My work focuses on the physics of the most luminous stars in the universe and how they lose mass through powerful radiation-driven winds.
 {: .text-justify}
 
-## Research Interest
+## Research Profile
 
-My main research interests are related to the stellar winds of hot and massive stars (usually temperatures above 28 to 30 kK), which are mainly driven by the radiation that emits. During my years as an undergraduate student, I learned how to model stars using the hydrodynamic solution of the wind instead of the famous "beta law", which I used in my bachelor thesis in the development of a self-consistent grid of theoretical models and allowed me to study not only the distribution of mass-loss rate and terminal velocity but also de distribution for the line-force parameters, where I compute three formulae for the mass-loss rate. I am also interested in Be stars, where I worked in parallel with my thesis quantifying the temporal change of the disk properties of the Be star HD 45725 using the code *HDUST*, a 3D Monte Carlo NLTE radiative transfer code.
+My research centres on **O-type stars** and the development of **self-consistent hydrodynamic models** to describe their stellar winds. Instead of relying on the traditional parametric "$\beta$-law", I work on solving the equations of motion to provide more accurate descriptions of mass-loss rates ($\dot{M}$) and wind parameters using the **m-CAK theory**. I have specialised in creating theoretical grids that analyse how the chemical composition of the photosphere affects the line-force and the overall evolution of these stellar objects. 
+
+Additionally, I investigate different hydrodynamic formalisms, including the study of **slow solutions**, and I employ state-of-the-art atmosphere codes such as **FASTWIND** and **PoWR** to better understand the wind physics. My goal is to bridge the gap between complex hydrodynamics and practical formulae that the wider community can use to understand stellar evolution.
+{: .text-justify}
+
+**Fun fact:** Outside of astrophysics, I am a **Fall Guys** tryhard and became **Superstar** across all seasons.
 {: .text-justify}
