@@ -6,6 +6,24 @@ nav: Teaching
 description: Classes and teaching material.
 ---
 
+<style>
+html[data-theme="dark"] .card,
+html[data-theme="dark"] .list-group-item {
+  background-color: var(--global-bg-color) !important;
+  border-color: var(--global-divider-color) !important;
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .card h5,
+html[data-theme="dark"] .card h6 {
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .card a {
+  color: var(--global-theme-color) !important;
+}
+</style>
+
 <h3 class="mt-4">Universidad de Valparaíso</h3>
 
 <div class="card mt-3">
@@ -114,5 +132,3 @@ description: Classes and teaching material.
     </ul>
   </div>
 </div>
-
-
